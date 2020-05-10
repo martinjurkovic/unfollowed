@@ -1,5 +1,5 @@
 # unfollowed
-Webscraping tracker for instagram following/ followers
+Webscraping tracker for instagram following/ followers.  
 Since instagram will cancel their API for followers/ following, the only option will soon be webscraping.
 
 ## Usage
